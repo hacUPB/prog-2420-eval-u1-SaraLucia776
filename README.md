@@ -6,6 +6,7 @@ Ambos hacen referencia aspectos distintos pero que se complementan en un sistema
 Cuando nos referimos al hardware hablamos del conjunto mecánico, eléctrico y electrónico de las partes reales que integran el cuerpo del computador, cada una de estas encargadas del procesamiento, soporte y conexión de la máquina. 
 Al hablar de software, nos referimos al contenido virtual del sistema como: programas, aplicaciones y protocolos de comunicación que sirven de interfaz con el usuario y controlan el modo en que opera el sistema. 
 Podemos decir que el hardware incluye todos los elementos tangibles que componen el computador, mientras el software hace referencia a la mente del computador, al soporte operacional. 
+![alt text](image.png)
 
 # Hardware
 Algunas partes que conforman el hardware son: 
@@ -14,6 +15,7 @@ Algunas partes que conforman el hardware son:
 - Memoria RAM
 - Dispositivos de almacenamiento (SSD,HDD,USB)
 - Dispositivos de entrada y salida de datos 
+![alt text](image-1.png)
 
 # Software
 Algunas partes que conforman el software son:
@@ -21,6 +23,7 @@ Algunas partes que conforman el software son:
 - Aplicaciones de usuario 
 - Drivers
 - Software de desarrollo
+![alt text](image-2.png)
 
 
 # Funciones de los componentes del software y hardware 
@@ -44,6 +47,7 @@ Entre las más importantes está el núcleo, que es la unidad base que constituy
 - __Velocidad de las CPU__
 Se encarga de indicar cuantos ciclos de procesamiento por segundo puede ejecutar una CPU teniendo en cuenta todas sus unidades de procesamiento. Se mide en gigahercios, donde cada gigahercios equivale a mill millones de ciclos por segundo. 
 Básicamente, la velocidad de la CPU indica con qué rapidez se pueden procesar los datos y es uno de los indicadores clave de rendimiento del dispositivo.
+![alt text](image-3.png)
 
 ## ¿Qué ocurre cuando presiono el botón de encendido del computador hasta que se muestra el sistema operativo listo para funcionar?
 
@@ -55,6 +59,10 @@ El gestor de arranque es un pequeño programa que se carga en la memoria y se en
 El bootloader carga el núcleo (kernel) del sistema operativo en la memoria. El kernel es el componente central del sistema operativo que gestiona los recursos del hardware y permite que el software interactúe con el hardware.
 El kernel inicia los controladores necesarios para que el hardware funcione correctamente y comienza a cargar servicios y procesos esenciales del sistema operativo.
 Y una vez que el sistema operativo ha terminado de cargarse, se presenta la pantalla de inicio de sesión
+![alt text](image-4.png)
+
+# Mapa mental 
+https://www.canva.com/design/DAGL-iIpToE/7TwVtYWGU7KzkZ3mdVR4kA/view?utm_content=DAGL-iIpToE&utm_campaign=designshare&utm_medium=link&utm_source=editor 
 
 ## REFERENCIAS 
 https://humanidades.com/dispositivos-de-entrada-y-salida/
@@ -65,6 +73,13 @@ https://concepto.de/sistema-operativo/
 https://tecnobits.com/que-es-un-driver/#google_vignette
 https://concepto.de/cpu/
 https://versus.com/es/glossary/total-clock-speed
+https://media.gettyimages.com/id/1397047849/photo/abstract-circuit-board-with-a-lot-of-micro-chips.jpg?b=1&s=170667a&w=0&k=20&c=RJ1PWMo5fcGl1XaTeIQSOA3NdtgRDKO6QJfV9XMa8XQ=
+http://www.embex-engineering.com/en/competencies-technologies/hardware/
+https://softwarewebsas.com/blog/software/30
+https://csesvpec.blogspot.com/2023/02/cpu.html
+https://wallpapercave.com/blue-circuit-board-wallpaper
+
+
 
 
 
