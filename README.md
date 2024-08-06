@@ -61,6 +61,8 @@ El kernel inicia los controladores necesarios para que el hardware funcione corr
 Y una vez que el sistema operativo ha terminado de cargarse, se presenta la pantalla de inicio de sesión
 ![alt text](image-4.png)
 
+Con esta actividad, entendí lo que hay detrás del computador que normalmente veo. Todos los procesos y la cantidad de elementos que permiten un buen funcionamiento del dispositivo. Me pareció muy interesante porque no creí que fuese tan complejo tanto el proceso de creación como el funcionamiento del dispositivo.
+
 # Mapa mental 
 https://www.canva.com/design/DAGL-iIpToE/7TwVtYWGU7KzkZ3mdVR4kA/view?utm_content=DAGL-iIpToE&utm_campaign=designshare&utm_medium=link&utm_source=editor 
 
