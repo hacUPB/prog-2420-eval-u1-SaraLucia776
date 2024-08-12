@@ -25,3 +25,14 @@ Inicio
       Fin si 
   Fin si 
 Fin
+
+- Definición del problema: 
+Caunto es la cuaota mensual que debe pagar una persona por hacer una compra con su tarjeta de crédito
+- Variables: 
+Costo, Número_cuotas, Interés
+
+Inicio 
+ Leer Costo
+ Leer Número_cuotas 
+ Leer Interés 
+  
