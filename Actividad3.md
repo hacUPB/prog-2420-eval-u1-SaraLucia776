@@ -44,8 +44,7 @@ Determinar si Ana aprobó su exámenes finales
 ## Pseudocódigo
 Inicio 
 
- Leer "Cantidad_materias"
-
+  Leer "Cantidad_materias"
   Para cada materia 
     Leer "Nota_materia"
     Sumar cada "Nota_materia"
@@ -60,7 +59,7 @@ Inicio
       Imprimir "Exámenes finales reprobados"
   Cerrar si 
 Fin
-  
+```
 
 # Pseudocódigo problema 2 
 - Definición del problema: 
@@ -69,6 +68,7 @@ Javier necesita verificar si su número de identificación es válido usando una
 "Número_DNI", "Dígitos_DNI", "Suma_dígitos"
 
 ## Pseudocódigo 
+```
 Inicio 
  
  Leer "Número_DNI"
@@ -83,5 +83,5 @@ Inicio
       Imprimir "DNI inválido"
   Cerrar si 
 Fin 
-  
+``` 
   
