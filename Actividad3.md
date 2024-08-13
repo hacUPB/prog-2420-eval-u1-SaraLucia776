@@ -5,6 +5,7 @@ Definir cuantos años, meses y días tiene una persona actualmente, basándose e
 "Día", "Mes", "Año", "Día_actual", "Mes_actual", "Año_actual", "Edad" 
 
 ## Pseudocódigo 
+```
 Inico 
 
     Leer "Día", "Mes", "Año"
@@ -34,6 +35,7 @@ Inico
                 Imprimir "Edad"
     Cerrar si 
 Fin
+```
 
 # Pseudocódigo problema 1 
 - Definición del problema: 
@@ -42,6 +44,7 @@ Determinar si Ana aprobó su exámenes finales
 "Nota_materia", "Cantidad_materias", "Nota_total","Notas_sumadas", "Promedio"
 
 ## Pseudocódigo
+```
 Inicio 
 
   Leer "Cantidad_materias"
